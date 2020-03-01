@@ -1,0 +1,5 @@
+amount,expected,message
+1200,800,chould Return 800 If Amount = 1200
+1000,0,chould Return 0 If Amount = 1000
+900,100, chould Return 100 If Amount = 900
+800,200, chould Return 200 If Amount = 800
