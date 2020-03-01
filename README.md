@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/65wvb7wp4t5f1512/branch/master?svg=true)](https://ci.appveyor.com/project/Alexandr/ru-netology-service/branch/master)
